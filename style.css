@@ -69,6 +69,15 @@ margin:0 ;
 
         .banner{
             background-image: url(./IMAGEN/hotelenellago.jpg);
+            background-position: center;
             width: 100%;
-            height: calc(100vh - 500px)
+            height: 250px;
+            padding: 5px;
+            justify-content: center;}
+
+        
+            
+
         }    
+            
+        
